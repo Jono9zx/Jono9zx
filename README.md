@@ -1,4 +1,4 @@
 ## Hi, I'm Jono! 
 
-![Snake animation](https://github.com/Jono9zx/Jono9zx/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
